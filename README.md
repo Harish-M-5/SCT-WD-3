@@ -39,15 +39,20 @@ This project is designed using **HTML, Tailwind CSS, and JavaScript**.
 4. Right-click index.html → Open with Live Server.
 
 5. Start playing Tic-Tac-Toe directly in your browser.
+
+
    
 ## License
 This project is licensed under the MIT License.
 You are free to use, modify, and distribute this project for personal and educational purposes
 
 
+
+
 ## Netlify Deployment 
 
 https://68c5a09137379924117a2d74--tictacappli.netlify.app/
+
 
 
 
