@@ -34,7 +34,7 @@ This project is designed using **HTML, Tailwind CSS, and JavaScript**.
    
 2. Open index.html in VS Code or any code editor.
 
-3. Install Live Server extension in VS Code (if not already installed).
+3. Install Live Server extension in VS Code
 
 4. Right-click index.html → Open with Live Server.
 
