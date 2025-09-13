@@ -44,11 +44,16 @@ This project is designed using **HTML, Tailwind CSS, and JavaScript**.
 This project is licensed under the MIT License.
 You are free to use, modify, and distribute this project for personal and educational purposes
 
+
+##Netlify 
+https://68c5a09137379924117a2d74--tictacappli.netlify.app/
+
+
+
 ## Output Demo video
 
 
 https://github.com/user-attachments/assets/b25837b0-c342-4dd5-85cb-6f7579d08cad
-
 
 
 
